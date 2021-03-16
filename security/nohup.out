@@ -1,0 +1,30 @@
+ * Serving Flask app "password-evolution" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+ * Running on https://0.0.0.0:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [15/Mar/2021 14:13:15] "[37mGET / HTTP/1.1[0m" 200 -
+ * Serving Flask app "password-evolution" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+ * Running on https://0.0.0.0:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [15/Mar/2021 14:22:10] "[37mPOST /signup/v1 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [15/Mar/2021 14:22:24] "[37mPOST /signup/v1 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [15/Mar/2021 14:22:51] "[37mPOST /login/v1 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [15/Mar/2021 14:23:01] "[37mPOST /login/v1 HTTP/1.1[0m" 200 -
+ * Serving Flask app "password-evolution" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+ * Running on https://0.0.0.0:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [16/Mar/2021 13:05:31] "[37mPOST /signup/v2 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [16/Mar/2021 13:05:43] "[37mPOST /signup/v2 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [16/Mar/2021 13:06:03] "[37mPOST /signup/v2 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [16/Mar/2021 13:06:13] "[37mPOST /login/v2 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [16/Mar/2021 13:06:21] "[37mPOST /login/v2 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [16/Mar/2021 13:06:45] "[37mPOST /login/v2 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [16/Mar/2021 13:06:54] "[37mPOST /login/v2 HTTP/1.1[0m" 200 -
